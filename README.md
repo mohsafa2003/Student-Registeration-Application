@@ -4,7 +4,7 @@ This project serves as an example and as a protfolio project.
 
 It's developed in C#. 
 
-In this project you're able to add the students informtion such as:
+In this project you're able to add the students information such as:
    -
     - Student's Name.
     - Student's Gender.
